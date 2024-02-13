@@ -11,3 +11,11 @@ if (close) {
     nav.classList.remove("active");
   });
 }
+
+function myfunc(){
+  alert("Email Submitted")
+}
+
+function refreshPage(){
+  window.location.reload();
+}
