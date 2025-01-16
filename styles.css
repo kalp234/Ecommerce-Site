@@ -159,6 +159,9 @@ body {
   font-weight: 700;
   font-size: 15px;
 }
+#hero button:hover{
+  text-decoration: underline;
+}
 #feature {
   display: flex;
   align-items: center;
@@ -422,6 +425,7 @@ body {
   display: flex;
   width: 40%;
 }
+
 /* footer here */
 
 footer {

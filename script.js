@@ -12,10 +12,9 @@ if (close) {
   });
 }
 
-function myfunc(){
-  alert("Email Submitted")
+function myFunction() {
+  alert("Email Submitted Succesfully");
 }
-
 function refreshPage(){
   window.location.reload();
 }
